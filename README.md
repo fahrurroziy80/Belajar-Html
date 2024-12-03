@@ -11,8 +11,6 @@
         <input type="checkbox" name="" id="">
     </center>
     <div></div>
-    
-
     <marquee direction="right">
         <center>
             <h1>HALLO FAHRURROZI >> </h1>
