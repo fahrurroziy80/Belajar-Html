@@ -13,7 +13,7 @@
     <div></div>
     <marquee direction="right">
         <center>
-            <h1>HALLO FAHRURROZI >> </h1>
+            <h1>HTML </h1>
         </center>
     </marquee>
 </body>
